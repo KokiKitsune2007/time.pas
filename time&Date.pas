@@ -4,6 +4,7 @@ var
    YY,MM,DD : Word;
    
 begin
+writeIn ('By: KokiX333
 writeIn ('Current time:',TimeToStr(Time));
 writeln ('Date : ',Date);
    DeCodeDate (Date,YY,MM,DD);
